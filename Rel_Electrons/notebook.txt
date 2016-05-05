@@ -1,0 +1,40 @@
+oscilloscope output - pictures on dropbox
+
+final gain - coarse = 1, fine gain = 3.0
+
+Co-57, Bi-207 - plot the data and include in lab notebook
+
+bi-207 1.7 MeV cal peak = 1393ch +- 1, 55ch +- 1
+
+cs-137 .66 MeV peak = 522ch +- 1
+
+co-57 peaks = 45ch +- 5, 115ch +- 2
+
+ba-133 peaks = 57ch, 82ch, 43ch
+
+T | E
+310 +- 10 | 450 +- 1 - bi
+675 +- 10 | 840 +- 1 - bi
+375 +- 10 | 522 +- 1 - cs
+160 +- 10 | 278 +- 1 - ba
+175 +- 10 | 301 +- 1 - ba
+830 +- 10 | 997 +- 1 - na
+259 +- 10 | 394 +- 1 - na
+75 +- 10 | 62 +- 1 - in
+200 +- 10 | 328 +- 1 - in
+475 +- 10 | 649 +- 1 - in
+700 +- 10 | 862 +- 1 - in
+850 +- 10 | 1019 +- 1 - in
+1475 +- 10 | 1660 +- 1 - in
+
+p^2/2T = mnr = BT + C
+
+p^2/2T = T/2c^2 + 2 m0
+
+p^2c^2 = T^2 + 2 m0 c^2 => for small T
+p^2 = 2 m0 = norm of the momentum 4-vector in the Lorentz metric
+
+p^2c^2 = 2 B c^2 T^2 + C c^2 T
+=> B = 1/(2c^2), C = 2 m0
+
+p^2 c^2 = 2 m0 c^2 T + T^2
