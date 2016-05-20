@@ -32,6 +32,8 @@ def alpha_err(a,R,T,d,R_err,T_err,d_err):
 
 a = alpha(R, T, d)
 a_err = alpha_err(a, R, T, d, R_err, T_err, d_err)
+print a[11]
+print a_err[11]
 a_errf = alpha_err(a, R, T, d, R_err, T_err, d_err)/a
 a = a*a
 a_err = a_errf * a
